@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OneShotStudio
+- 👋 Hi, I’m @EliM46656
 - 👀 I’m interested in coding and playing games like chess and building games!
 - 🌱 I know HTML, CSS, JS, BASH, and PYTHON!
-- 💞️ I am collaborating with the East initiative!
+- 💞️ I am collaborating with nobody. If you want collab, email me!
 - 📫 You can reach us by email (elim4656@gmail.com)
